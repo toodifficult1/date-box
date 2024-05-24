@@ -16,5 +16,5 @@ jobs:
         env:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 7de2a55824ec5e8a78ebc3c57e4ca82b
-          RECORDS: "0 * * * 0,6 _ WEEKEND | 0 0 10 * * _ PAYDAY | 2022-10-22 _ INIT DATE-BOX | 0 * 28 12 * _ MY BIRTHDAY"
+          GIST_ID: 7b253510a7df2a324949cea66699e92d
+          RECORDS: "2024-12-25 _ 크리스마스 | 2024-07-28 _ 정처기 시험 | 2024-07-26 _ 백엔드 과정 수료일"
